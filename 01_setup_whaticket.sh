@@ -68,7 +68,7 @@ echo "[OK] Snap instalado."
 
 # Clonando repositório
 echo "Clonando repositório Whaticket..."
-git clone https://github.com/SEUGITHUB/novo_whaticket.git /home/deploy/whaticket
+git clone https://github.com/tieverton81/whaticket-main.git /home/deploy/whaticket
 chown deploy:deploy -R /home/deploy/whaticket
 sleep 2
 echo "[OK] Repositório clonado."
